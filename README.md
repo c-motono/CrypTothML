@@ -156,10 +156,12 @@ Use provided Perl scripts:
 
 **`$ perl merge_script.pl`**
 
-##### 2.2.2    Cryptic Sites Prediction
-Run the Jupyter Notebook with the merged feature file (feature_XXXX.csv) as input.　
+Output: feature file "feature_2am9.csv" is generated.
 
-Output: predicted_results_XXXX_adaboost.csv
+##### 2.2.2    Cryptic Sites Prediction
+Run the Jupyter Notebook with the merged feature file (feature_2am9.csv) as input.　
+
+Output: predicted_results_2am9_adaboost.csv
 
 Columns include:　
 
