@@ -1,4 +1,4 @@
-#  Cryptic Hotspot Predictor
+#  Cryptic Site Prediction
 
 This repository provides a Jupyter Notebook and a pre-trained machine learning model to predict cryptic hotspots using structure-derived features.
 
