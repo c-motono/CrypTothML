@@ -159,15 +159,15 @@ Use provided Perl scripts:
 Output: feature file "feature_2am9.csv" is generated.
 
 ##### 2.2.2    Cryptic Sites Prediction
-Run the Jupyter Notebook with the merged feature file (feature_2am9.csv) as input.　
+Run the Jupyter Notebook with the merged feature file (sample_features.csv) as input.　
 
-Output: predicted_results_2am9_adaboost.csv
+Output: prediction_output.csv
 
 Columns include:　
 
--  Patch: Hotspot ID
--  PredictedLabel: 1 (cryptic) or 0 (non-cryptic)　　
-- Probability: Confidence score. The closer this value is to 1, the higher the probability that the hotspot corresponds to a cryptic site.
+- all columns from sample_features.csv　
+- predicted_proba: Confidence score. The closer this value is to 1, the higher the probability that the hotspot corresponds to a cryptic site.
+We recommend the threshold predicted_proba≥0.5.
 
 
 ## Citation
