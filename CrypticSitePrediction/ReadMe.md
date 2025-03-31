@@ -22,3 +22,8 @@ scikit-learn
 joblib
 matplotlib
 seaborn
+
+##  Predict via CLI (Linux)
+
+You can also use `cryptothml.py` to run predictions from the command line:
+python3 cryptothml.py sample_features.csv prediction_output.csv
