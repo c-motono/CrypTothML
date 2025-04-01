@@ -43,7 +43,7 @@ Ada_DTC.ipynb is available in this repository.
 
 An example of the directory structure is as follows.
 
-![image](https://github.com/user-attachments/assets/65217c06-7f12-40e3-99c8-e1816f32cf50)
+![image](https://github.com/user-attachments/assets/2a1dd48f-4b41-4b89-aa65-74a88b3380f7)
 
 
 ### 2.	Execution of CrypTothML
