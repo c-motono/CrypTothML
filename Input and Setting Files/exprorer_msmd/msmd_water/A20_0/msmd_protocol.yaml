@@ -1,5 +1,5 @@
 general:
-  iter_index: 0  #0-19 #10-19
+  iter_index: 0-19
   # iter_index: 1-2,4,5-9:2 # MSMD indices to be calculated / Notation 1-2 => 1,2  5-9:2 => 5,7,9
   workdir: output # output directory / absolute path or relative path from THIS YAML FILE
   name: 2am9_A20 
@@ -167,7 +167,7 @@ exprorer_msmd:
       title     : Production Run
       type      : production
       define    : ""
-      nsteps    : 10000000 #20000000
+      nsteps    : 20000000
       nstxtcout : 5000 # steps
       nstenergy : 5000 # steps
       nstlog    : 5000 # steps
