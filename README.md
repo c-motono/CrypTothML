@@ -90,7 +90,7 @@ For details about this file, please refer to the GitHub repository of _explorer_
 
 The directory structure is as follows.
 
-![image](https://github.com/user-attachments/assets/e33fad90-99d3-42e5-85a0-77ba1eb85f13)
+![image](https://github.com/user-attachments/assets/a1ab9240-93ed-4e5f-a12e-e33c2d5fd944)
 
 
 Example of YAML files and probe molecule files for CrypTothML are available in This page.
