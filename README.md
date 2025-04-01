@@ -37,7 +37,7 @@ exprorer_msmd is available in https://github.com/keisuke-yanagisawa/exprorer_msm
 cosmdanalyzer is a system for hotspot detection form output of exprorer_msmd.  
 cosmdanalyzer is available in this repository; https://github.com/jkoseki/CrypToth/tree/main/cosmdanalyzer.
 
-**Installation of Jupyter Notebook for machine learning (_Ada_DTC.ipynb_)**
+**Installation of Jupyter Notebook for machine learning (_cryptothml.ipynb_)**
 Ada_DTC.ipynb is a Jupyter Notebook file for prediction of cryptic hotspots.  
 Ada_DTC.ipynb is available in this repository.
 
