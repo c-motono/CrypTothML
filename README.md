@@ -1,4 +1,5 @@
 # CrypTothML
+> Copyright (c) Chie Motono and Kenichiro Imai, 2025
 CrypTothML is a machine learning-based framework for predicting cryptic binding pockets in proteins by integrating molecular dynamics simulations (MSMD) and physicochemical features. This repository contains the code, data, and instructions to reproduce the results described in our publication.
 
 ## Features
