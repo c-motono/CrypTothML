@@ -176,7 +176,7 @@ We recommend the threshold predicted_proba≥0.5.
 If you use this code, please cite our paper:
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LISENCE_CrypTothML.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 
 
