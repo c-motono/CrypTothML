@@ -173,10 +173,10 @@ We recommend the threshold predicted_proba≥0.5.
 
 ## Citation
 If you use this code, please cite our paper:
+
 Motono, C.; Yanagisawa, K.; Koseki, J.; Imai, K. CrypTothML: An Integrated Mixed-Solvent Molecular Dynamics Simulation and Machine Learning Approach for Cryptic Site Prediction. Int. J. Mol. Sci. 2025, 26, 4710. https://doi.org/10.3390/ijms26104710
 
 
-## License
 ## License
 
 CrypTothML is released under different terms for non-commercial and commercial use.
