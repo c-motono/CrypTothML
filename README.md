@@ -177,7 +177,17 @@ Motono, C.; Yanagisawa, K.; Koseki, J.; Imai, K. CrypTothML: An Integrated Mixed
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.txt] file for details.
+## License
+
+CrypTothML is released under different terms for non-commercial and commercial use.
+
+- **Non-commercial use** (e.g., academic or personal use) is permitted under the terms of the [GNU Affero General Public License v3 (AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html).
+- **Commercial use** requires a separate license agreement.
+
+For commercial licensing inquiries, please contact **AIST Solutions Co.** via their [contact form](https://www.aist-solutions.co.jp/contact/form.html) (English version currently under preparation).
+
+See the full license text in [LICENSE.txt](LICENSE.txt) for details.
+ils.
 
 
 
